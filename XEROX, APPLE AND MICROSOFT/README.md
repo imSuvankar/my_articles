@@ -9,8 +9,9 @@
 A story everyone should know. 
 
 
-> Click on the pdf above to read or download the article.
-
+> Click on the pdf above to read <br>
+> Or to download, [click here](https://github.com/imSuvankar/my_articles/raw/main/XEROX%2C%20APPLE%20AND%20MICROSOFT/XEROX%20APPLE%20AND%20MICROSOFT_The%20The%20Myths%20and%20The%20Truths.pdf) <br>
+> If any error occurs, refresh the page.
 <br>
 
 
