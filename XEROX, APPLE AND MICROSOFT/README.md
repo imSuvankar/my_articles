@@ -9,7 +9,7 @@
 A story everyone should know. 
 
 
-> Click on the pdf above to read, or visit [medium](https://medium.com/@imSuvankar/xerox-apple-and-microsoft-the-myths-and-the-truths-aadef6042151) <br>
+> To read, [click here](https://github.com/imSuvankar/my_articles/blob/main/XEROX%2C%20APPLE%20AND%20MICROSOFT/XEROX%20APPLE%20AND%20MICROSOFT_The%20The%20Myths%20and%20The%20Truths.pdf), or read from [medium](https://medium.com/@imSuvankar/xerox-apple-and-microsoft-the-myths-and-the-truths-aadef6042151) <br>
 > Or to download, [click here](https://github.com/imSuvankar/my_articles/raw/main/XEROX%2C%20APPLE%20AND%20MICROSOFT/XEROX%20APPLE%20AND%20MICROSOFT_The%20The%20Myths%20and%20The%20Truths.pdf) <br>
 > If any error occurs, refresh the page.
 <br>
